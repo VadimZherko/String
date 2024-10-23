@@ -1,3 +1,0 @@
-/home/vadim/repository/String Processing/build/CMakeFiles/String.dir
-/home/vadim/repository/String Processing/build/CMakeFiles/edit_cache.dir
-/home/vadim/repository/String Processing/build/CMakeFiles/rebuild_cache.dir
